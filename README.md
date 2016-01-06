@@ -6,3 +6,6 @@ Diskimage-builder is a tool for building cloud image in openstack.
 <pre><code>1. git clone https://github.com/ContainerTribe/diskimage-builder-dockerfile
 2. cd diskimage-builder-dockerfile
 3. docker build -t diskimage-builder:latest ./</code></pre>
+
+### download image from dockerhub
+<pre><code>docker pull bohai/diskimage-builder-dockerfile</code></pre>
