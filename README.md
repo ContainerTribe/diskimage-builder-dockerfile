@@ -1,5 +1,5 @@
 # diskimage-builder-dockerfile
-Dockerfile for diskimage-builder
+Diskimage-builder is a tool for building cloud image in openstack.
 
 ### manual build image  
 可以手工运行如下命令： 
