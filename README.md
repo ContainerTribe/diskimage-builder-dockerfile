@@ -14,7 +14,7 @@ Run the below command to get docker image from dockerhub.
 <pre><code>
 docker pull bohai/diskimage-builder-dockerfile</code></pre>
 
-### how to build a image  
+### how to build an image  
 <pre><code>
 1. run the docker image 
 docker run -it --privileged diskimage-builder-dockerfile /bin/bash
