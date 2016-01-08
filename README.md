@@ -2,7 +2,7 @@
 Diskimage-builder is a tool for building cloud image in openstack.
 This project dockerize the diskimage-builder, then we can use the tool without installing and configuring it.
 
-### manual build image  
+### manually build image  
 Run the below commands.
 <pre><code>
 1. git clone https://github.com/ContainerTribe/diskimage-builder-dockerfile
